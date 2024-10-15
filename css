@@ -1,0 +1,44 @@
+/* main.css */
+/* Styles for the website */
+
+/* Body properties */
+body {
+    /* Set the background color */
+    background-color: #e6f7ff; /* Light blue background */
+    /* Set the text color */
+    color: #333333; /* Dark gray text */
+}
+
+/* Header properties */
+header {
+    /* Center align text in the header */
+    text-align: center;
+}
+
+/* Navigation properties */
+nav {
+    /* Set the height of the navigation area */
+    height: 600px;
+    /* Set the width of the navigation area */
+    width: 200px;
+    /* Float the navigation to the left */
+    float: left;
+    /* Set padding inside the navigation area */
+    padding: 5px;
+    /* Set the line height */
+    line-height: 30px;
+}
+
+/* Footer properties */
+footer {
+    /* Center align text in the footer */
+    text-align: center;
+    /* Set right margin */
+    margin-right: 200px;
+}
+
+/* Meme Image properties */
+#memeImage {https://duckduckgo.com/?q=discord+mod&t=ffab&iar=images&iax=images&ia=images&iai=https%3A%2F%2Fi.ytimg.com%2Fvi%2F7gqFCBgolFU%2Fmaxresdefault.jpg
+    /* Set right margin for the image */
+    margin-right: 200px;
+}
